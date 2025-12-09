@@ -4,7 +4,7 @@ A modern, responsive bakery website built with HTML, CSS, and JavaScript. Featur
 
 ## 🌟 Live Demo
 
-![Homepage](screenshots/homepage.png)
+![Homepage](Screenshot.png)
 
 [![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-9cf?style=for-the-badge)](https://mohakamran.github.io/bakery/)
 
