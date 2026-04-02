@@ -6,7 +6,7 @@ A modern, responsive bakery website built with HTML, CSS, and JavaScript. Featur
 
 ![Homepage](Screenshot.png)
 
-Live Demo: bakery-demo-web.vercel.app
+Live Demo: https://bakery-demo-web.vercel.app
 
 ## ✨ Features
 
